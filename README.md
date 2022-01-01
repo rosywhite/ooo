@@ -13,7 +13,8 @@ ahoj světe :)
 - [site architecture plan - dec 20, 2021](./log_entries/log_000.md)
 - [log entry #1 - dec 27, 2021 - setting up the dev env](./log_entries/log_001.md)
 - [log entry #2 - dec 29, 2021 - roadblocks and subsocial/substrate notes](./log_entries/log_002.md)
-- [log entry #3 - dec 30, 2021 - the Rust Book intro & ch.1 notes](./log_entries/log_003.md)
+- [log entry #3 - dec 30, 2021 - the rust book intro & ch.1 notes](./log_entries/log_003.md)
+- - [log entry #4 - dec 31, 2021 - rust book ch.2 code](./log_entries/log_004.md)
 
 ### TL;DR: my current plan: 
 - just have a [simple website](https://diary-gamma.vercel.app/) for now - check out my [diary repo](https://github.com/rosywhite/diary) for more info
