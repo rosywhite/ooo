@@ -18,7 +18,8 @@ ahoj světe :)
 - [log entry #5 - jan 2, 2022 - rust book ch.2 code cont.](./log_entries/log_005.md) 
 - [log entry #6 - jan 2-4, 2022 - rust book ch.3](./log_entries/log_006.md)
 - [log entry #7 - jan 4-9, 2022 - rust book ch.3 cont.](./log_entries/log_007.md)
-- [log entry #8 - jan 10, 2022 - rust book ch.4](./log_entries/log_008.md)
+- [log entry #8 - jan 10-13, 2022 - rust book ch.4](./log_entries/log_008.md) 
+- [log entry #9 - jan 14, 2022 - rust book ch.4 cont.](./log_entries/log_008.md)
 
 ### TL;DR: my current plan: 
 - just have a [simple website](https://diary-gamma.vercel.app/) for now - check out my [diary repo](https://github.com/rosywhite/diary) for more info
