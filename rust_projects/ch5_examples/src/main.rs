@@ -4,6 +4,16 @@ struct Rectangle {
     height: u32,
 }
 
+fn area(rectangle: &Rectangle) -> u32 {
+  rectangle.width * rectangle.height
+}
+
+impl Rectangle {
+  fn area2(&self) -> u32 {
+      self.width * self.height
+  }
+}
+
 fn main() {
     let rect1 = Rectangle {
         width: 30,
@@ -20,9 +30,16 @@ fn main() {
     };
   
     dbg!(&rect2);
+
+    let rect3 = Rectangle {
+      width: 30,
+      height: 50,
+  };
+
+  println!(
+      "The area of the rectangle is {} square pixels.",
+      rect3.area2()
+  );
 }
 
 
-fn area(rectangle: &Rectangle) -> u32 {
-  rectangle.width * rectangle.height
-}
