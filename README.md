@@ -9,10 +9,8 @@ geiá sou kósme :)
 hallo welt :)
 ahoj světe :)
 
-
-- [site architecture plan - dec 20, 2021](./log_entries/log_000.md)
-- [log entry #1 - dec 27, 2021 - setting up the dev env](./log_entries/log_001.md)
-- [log entry #2 - dec 29, 2021 - roadblocks and subsocial/substrate notes](./log_entries/log_002.md)
+## Making a new blog website and studying the Rust Book
+- [log entry #1 - dec 27, 2021 - setting up the dev env for a new blog website](./log_entries/log_001.md)
 - [log entry #3 - dec 30, 2021 - the rust book intro & ch.1 notes](./log_entries/log_003.md)
 - [log entry #4 - dec 31, 2021 - jan 1, 2022 - rust book ch.2 code](./log_entries/log_004.md) 
 - [log entry #5 - jan 2, 2022 - rust book ch.2 code cont.](./log_entries/log_005.md) 
