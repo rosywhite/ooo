@@ -10,15 +10,15 @@ hallo welt :)
 ahoj světe :)
 
 ## Making a new blog website and studying the Rust Book
-- [log entry #1 - dec 27, 2021 - setting up the dev env for a new blog website](./log_entries/log_001.md)
-- [log entry #3 - dec 30, 2021 - the rust book intro & ch.1 notes](./log_entries/log_003.md)
-- [log entry #4 - dec 31, 2021 - jan 1, 2022 - rust book ch.2 code](./log_entries/log_004.md) 
-- [log entry #5 - jan 2, 2022 - rust book ch.2 code cont.](./log_entries/log_005.md) 
-- [log entry #6 - jan 2-4, 2022 - rust book ch.3](./log_entries/log_006.md)
-- [log entry #7 - jan 4-9, 2022 - rust book ch.3 cont.](./log_entries/log_007.md)
-- [log entry #8 - jan 10-13, 2022 - rust book ch.4](./log_entries/log_008.md) 
-- [log entry #9 - jan 14-19, 2022 - rust book ch.4 cont.](./log_entries/log_009.md) 
-- [log entry #10 - jan 21-, 2022 - rust book ch.5](./log_entries/log_010.md)
+- [dec 27, 2021 - setting up the dev env for a new blog website](./log_entries/log_001.md)
+- [dec 30, 2021 - the rust book intro & ch.1 notes](./log_entries/log_003.md)
+- [dec 31, 2021 - jan 1, 2022 - rust book ch.2 code](./log_entries/log_004.md) 
+- [jan 2, 2022 - rust book ch.2 code cont.](./log_entries/log_005.md) 
+- [jan 2-4, 2022 - rust book ch.3](./log_entries/log_006.md)
+- [jan 4-9, 2022 - rust book ch.3 cont.](./log_entries/log_007.md)
+- [jan 10-13, 2022 - rust book ch.4](./log_entries/log_008.md) 
+- [jan 14-19, 2022 - rust book ch.4 cont.](./log_entries/log_009.md) 
+- [jan 21-, 2022 - rust book ch.5](./log_entries/log_010.md)
 
 ### TL;DR: my current plan: 
 - just have a [simple website](https://diary-gamma.vercel.app/) for now - check out my [diary repo](https://github.com/rosywhite/diary) for more info
